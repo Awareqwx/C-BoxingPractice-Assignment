@@ -1,0 +1,8 @@
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\Fundamentals\BoxingPractice\bin\Debug\netcoreapp1.1\BoxingPractice.deps.json
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\Fundamentals\BoxingPractice\bin\Debug\netcoreapp1.1\BoxingPractice.runtimeconfig.json
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\Fundamentals\BoxingPractice\bin\Debug\netcoreapp1.1\BoxingPractice.runtimeconfig.dev.json
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\Fundamentals\BoxingPractice\bin\Debug\netcoreapp1.1\BoxingPractice.dll
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\Fundamentals\BoxingPractice\bin\Debug\netcoreapp1.1\BoxingPractice.pdb
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\Fundamentals\BoxingPractice\obj\Debug\netcoreapp1.1\BoxingPractice.AssemblyInfo.cs
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\Fundamentals\BoxingPractice\obj\Debug\netcoreapp1.1\BoxingPractice.dll
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\Fundamentals\BoxingPractice\obj\Debug\netcoreapp1.1\BoxingPractice.pdb
